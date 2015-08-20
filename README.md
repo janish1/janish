@@ -1,0 +1,2 @@
+# janish
+db for collection
